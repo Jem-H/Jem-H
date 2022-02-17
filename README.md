@@ -1,7 +1,7 @@
 ### Hi there, this is Jemima 👋
-<h2>
-3rd year MEng Biomedical Engineering student at Imperial College London :computer::pill::wrench:
-</h2>
+<h3>
+3rd year MEng Biomedical Engineering student :computer::pill::wrench: at Imperial College London
+</h3>
 
 <ul>
   <li>:dart: I’m currently working on <b> MATLAB and Java </b></li>
