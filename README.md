@@ -1,12 +1,12 @@
 <h3>Hi there, this is Jemima :wave:</h3>
 
 <h3>
-3rd year MEng Biomedical Engineering student :computer::pill::wrench: at Imperial College London
+Final year MEng Biomedical Engineering student :computer::pill::wrench: at Imperial College London
 </h3>
 
 <ul>
   <li>:dart: I’m currently working on <b> MATLAB and Java </b></li>
-  <li>:seedling: I’m currently learning <b> Python </b></li>
+  <li>:seedling: I’m currently learning <b> Python as well as web development (HTML, CSS, Javascript)</b></li>
   <li>:mag: I have dabbled in <b> C and C++ </b></li>
 </ul>
 
