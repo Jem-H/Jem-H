@@ -1,13 +1,14 @@
 <h3>Hi there, this is Jemima :wave:</h3>
 
 <h3>
-Final year MEng Biomedical Engineering student :computer::pill::wrench: at Imperial College London
+Technology Graduate at Sky
+MEng Biomedical Engineering graduate :computer::pill::wrench: from Imperial College London
 </h3>
 
 <ul>
-  <li>:dart: I’m currently working on <b> MATLAB and Java </b></li>
-  <li>:seedling: I’m currently learning <b> Python as well as web development (HTML, CSS, Javascript)</b></li>
-  <li>:mag: I have dabbled in <b> C and C++ </b></li>
+  <li>:dart: I’m building my knowledge of <b> React and GraphQL </b></li>
+  <li>:seedling: I have upskilled in <b> SQL and web development (HTML, CSS, Javascript) </b></li>
+  <li>:mag: I have dabbled in <b> MATLAB, C++ and Java </b></li>
 </ul>
 
 <h4>Projects I have worked on: (pinned)</h4>
