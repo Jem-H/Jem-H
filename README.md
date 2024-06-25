@@ -1,7 +1,5 @@
-<h3>Hi there, this is Jemima :wave:</h3>
-
-<h3>Technology Graduate at Sky</h3>
-<h4>MEng Biomedical Engineering graduate :computer::pill::wrench: from Imperial College London</h4>
+<h3>Hi there, this is Jemima :wave: Technology Graduate at Sky</h3>
+<h4>I am an MEng Biomedical Engineering graduate :computer::pill::wrench: from Imperial College London</h4>
 
 <ul>
   <li>:dart: I’m building my knowledge of <b>React and GraphQL</b></li>
