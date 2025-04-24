@@ -1,10 +1,10 @@
-<h3>Hi there, this is Jemima :wave: Technology Graduate at Sky</h3>
+<h3>Hi there, this is Jemima :wave: Software Engineer at Sky</h3>
 <h4>I am an MEng Biomedical Engineering graduate :computer::pill::wrench: from Imperial College London</h4>
 
 <ul>
-  <li>:dart: I’m building my knowledge of <b>React and GraphQL</b></li>
-  <li>:seedling: I have recently upskilled in <b>SQL and web development (HTML, CSS, Javascript)</b></li>
-  <li>:mag: I have previously dabbled in <b>MATLAB, Java and C++</b></li>
+  <li>:dart: I’m building my knowledge of <b>React, GraphQL and Java</b></li>
+  <li>:seedling: I have recently upskilled in <b>SQL</b></li>
+  <li>:mag: I have previously dabbled in <b>MATLAB and C++</b></li>
 </ul>
 
 <h4>Projects I have worked on: (pinned)</h4>
